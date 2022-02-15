@@ -21,8 +21,8 @@ songs:
     title: "Push Me Under Water"
     path: "bbg_a_00000006.hca"
     type: battle
-  - id: outlaw_s_lullaby_yakuza_kiwami_2
-    title: "Outlaw's Lullaby"
+  - id: lullaby_of_outlaws
+    title: "Lullaby Of Outlaws"
     path: "bbg_a_00000008.hca"
     type: battle
   - id: update_with_gunfire
